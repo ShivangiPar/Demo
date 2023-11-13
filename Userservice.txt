@@ -1,1 +1,3 @@
 Please input some users information here
+
+Create a new avatar
